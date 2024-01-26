@@ -1,2 +1,6 @@
-victor@192.168.123.116
-192.168.117.163
+[victor_servers]
+victor@victor-Virtual-Machine.mshome.net
+
+[john1_servers]
+john1-Virtual-Machine.mshome.net
+
